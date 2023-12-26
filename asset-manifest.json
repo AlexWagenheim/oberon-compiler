@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oberon-compiler/static/css/main.0ee37fcc.css",
-    "main.js": "/oberon-compiler/static/js/main.694da2a4.js",
+    "main.js": "/oberon-compiler/static/js/main.238cb049.js",
     "static/media/anon.png": "/oberon-compiler/static/media/anon.2525c89f431c78980218.png",
     "static/media/Logo_black.png": "/oberon-compiler/static/media/Logo_black.343d7c459b895ec0452c.png",
     "static/media/Oberon_w.png": "/oberon-compiler/static/media/Oberon_w.ef05e43032ad0320c89b.png",
@@ -19,10 +19,10 @@
     "static/media/gh.png": "/oberon-compiler/static/media/gh.10aa1ce7a24d0deed6e2.png",
     "index.html": "/oberon-compiler/index.html",
     "main.0ee37fcc.css.map": "/oberon-compiler/static/css/main.0ee37fcc.css.map",
-    "main.694da2a4.js.map": "/oberon-compiler/static/js/main.694da2a4.js.map"
+    "main.238cb049.js.map": "/oberon-compiler/static/js/main.238cb049.js.map"
   },
   "entrypoints": [
     "static/css/main.0ee37fcc.css",
-    "static/js/main.694da2a4.js"
+    "static/js/main.238cb049.js"
   ]
 }
